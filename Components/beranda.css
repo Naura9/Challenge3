@@ -1,0 +1,42 @@
+.container{
+    background-color: lightgray;
+}
+.title1 {
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 50pt;
+}
+
+
+.adalah {
+    margin-left: 260px;
+    margin-right: 260px;
+    text-align: center;
+}
+
+.title2{
+    color: maroon;
+    text-align: center;
+    font-size: 100pt;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sansserif;
+}
+
+.gejala {
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.title3 {
+    text-align: center;
+    font-size: 30pt;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sansserif;
+}
+
+.penularan {
+    margin-left: 350px;
+    margin-right: 350px;
+}
